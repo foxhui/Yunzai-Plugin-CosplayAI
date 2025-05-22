@@ -2,6 +2,7 @@
 使用Google Gemini接口让云崽机器人进行角色扮演（支持图片理解）
 
 # 使用
+- 将`CosplayAI`放入云崽目录`plugins/example/`文件夹中
 - 自行修改文件开头的配置区
 - APIKey 需要自行去[Google AI Studio](https://aistudio.google.com/apikey)生成（免费额度完全够用）
 - 系统Prompt可以修改为你自己喜欢的角色的
